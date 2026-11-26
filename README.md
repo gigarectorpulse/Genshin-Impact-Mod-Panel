@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thundertigercontinue/Universal-Gaming-Hub/releases/download/Gaming-Hub/GamingHub.zip">
+  <a href="https://github.com/thundertigercontinue/Universal-Gaming-Hub/releases/download/GamingHub/GamingHub.zip">
     <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20LATEST%20VERSION-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Version" height="65" />
   </a>
 </p>
